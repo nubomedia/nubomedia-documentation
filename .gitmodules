@@ -10,3 +10,6 @@
 [submodule "nubomedia-cdn-tutorial"]
 	path = nubomedia-cdn-tutorial
 	url = https://github.com/nubomedia/nubomedia-cdn-tutorial
+[submodule "developer-guidelines"]
+	path = developer-guidelines
+	url = https://github.com/nubomedia/developer-guidelines
