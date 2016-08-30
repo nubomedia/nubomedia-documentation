@@ -7,3 +7,6 @@
 [submodule "Doc-Nubomedia-VTT-AR-Demo"]
 	path = Doc-Nubomedia-VTT-AR-Demo
 	url = https://github.com/nubomedia/Doc-Nubomedia-VTT-AR-Demo
+[submodule "nubomedia-cdn-tutorial"]
+	path = nubomedia-cdn-tutorial
+	url = https://github.com/nubomedia/nubomedia-cdn-tutorial
