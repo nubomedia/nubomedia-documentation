@@ -13,3 +13,6 @@
 [submodule "developer-guidelines"]
 	path = developer-guidelines
 	url = https://github.com/nubomedia/developer-guidelines
+[submodule "doc-kurento-room"]
+	path = doc-kurento-room
+	url = https://github.com/nubomedia/doc-kurento-room
