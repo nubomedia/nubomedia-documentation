@@ -1,3 +1,6 @@
 [submodule "Doc-Nubomedia-MultisensoryDataModule"]
 	path = Doc-Nubomedia-MultisensoryDataModule
 	url = https://github.com/nubomedia/Doc-Nubomedia-MultisensoryDataModule
+[submodule "Doc-Nubomedia-Armodule"]
+	path = Doc-Nubomedia-Armodule
+	url = https://github.com/nubomedia/Doc-Nubomedia-Armodule
