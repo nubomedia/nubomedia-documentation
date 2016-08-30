@@ -31,3 +31,6 @@
 [submodule "nubomedia-room-tutorial"]
 	path = nubomedia-room-tutorial
 	url = https://github.com/nubomedia/nubomedia-room-tutorial
+[submodule "DOC-NUBOMEDIA-VCA"]
+	path = DOC-NUBOMEDIA-VCA
+	url = https://github.com/nubomedia/DOC-NUBOMEDIA-VCA
