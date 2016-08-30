@@ -16,3 +16,6 @@
 [submodule "doc-kurento-room"]
 	path = doc-kurento-room
 	url = https://github.com/nubomedia/doc-kurento-room
+[submodule "doc-kurento-tree"]
+	path = doc-kurento-tree
+	url = https://github.com/nubomedia/doc-kurento-tree
