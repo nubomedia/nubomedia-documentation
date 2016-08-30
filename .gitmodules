@@ -28,3 +28,6 @@
 [submodule "nubomedia-repository-tutorial"]
 	path = nubomedia-repository-tutorial
 	url = https://github.com/nubomedia/nubomedia-repository-tutorial
+[submodule "nubomedia-room-tutorial"]
+	path = nubomedia-room-tutorial
+	url = https://github.com/nubomedia/nubomedia-room-tutorial
