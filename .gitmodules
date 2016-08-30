@@ -22,3 +22,6 @@
 [submodule "doc-kurento-repository"]
 	path = doc-kurento-repository
 	url = https://github.com/nubomedia/doc-kurento-repository
+[submodule "doc-kurento-jsonrpc"]
+	path = doc-kurento-jsonrpc
+	url = https://github.com/nubomedia/doc-kurento-jsonrpc
