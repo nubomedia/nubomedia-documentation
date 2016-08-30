@@ -19,3 +19,6 @@
 [submodule "doc-kurento-tree"]
 	path = doc-kurento-tree
 	url = https://github.com/nubomedia/doc-kurento-tree
+[submodule "doc-kurento-repository"]
+	path = doc-kurento-repository
+	url = https://github.com/nubomedia/doc-kurento-repository
