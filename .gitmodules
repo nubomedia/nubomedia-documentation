@@ -43,3 +43,6 @@
 [submodule "doc-webrtcpeer-android"]
 	path = doc-webrtcpeer-android
 	url = https://github.com/nubomedia/doc-webrtcpeer-android
+[submodule "kurento-ios-documentation"]
+	path = kurento-ios-documentation
+	url = https://github.com/nubomedia/kurento-ios-documentation
