@@ -40,3 +40,6 @@
 [submodule "doc-kurento-tree-client-android"]
 	path = doc-kurento-tree-client-android
 	url = https://github.com/nubomedia/doc-kurento-tree-client-android
+[submodule "doc-webrtcpeer-android"]
+	path = doc-webrtcpeer-android
+	url = https://github.com/nubomedia/doc-webrtcpeer-android
