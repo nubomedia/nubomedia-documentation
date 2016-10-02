@@ -34,3 +34,6 @@
 [submodule "DOC-NUBOMEDIA-VCA"]
 	path = DOC-NUBOMEDIA-VCA
 	url = https://github.com/nubomedia/DOC-NUBOMEDIA-VCA
+[submodule "doc-kurento-room-client-android"]
+	path = doc-kurento-room-client-android
+	url = https://github.com/nubomedia/doc-kurento-room-client-android
