@@ -37,3 +37,6 @@
 [submodule "doc-kurento-room-client-android"]
 	path = doc-kurento-room-client-android
 	url = https://github.com/nubomedia/doc-kurento-room-client-android
+[submodule "doc-kurento-tree-client-android"]
+	path = doc-kurento-tree-client-android
+	url = https://github.com/nubomedia/doc-kurento-tree-client-android
